@@ -1,5 +1,5 @@
 {"id":4,"name":"AzureFunction1","addressTypeName":"Galeria",
-     "address":"Wrocław Długopolska 22","description":"opis","status":0,
-     "lat":"51.074350", "lng":"17.039909"},{"id":5,"name":"Kjosk2","addressTypeName":"Galeria",
-     "address":"Wrocław Długopolska 22","description":"opis","status":2,
-     "lat":"51.074650", "lng":"17.036909"}
+"address":"Wrocław Długopolska 22","description":"opis","status":0,
+"lat":"51.074350", "lng":"17.039909"},{"id":5,"name":"Kjosk2","addressTypeName":"Galeria",
+"address":"Wrocław Długopolska 22","description":"opis","status":2,
+"lat":"51.074650", "lng":"17.036909"}
