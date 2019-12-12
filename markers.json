@@ -1,17 +1,8 @@
 [
-    {
-      "name": "Rixos The Palm Dubai",
-      "lat": 25.1212, 
-      "lng": 55.1535
-    },
-    {
-      "name": "Shangri-La Hotel",
-      "lat": 25.2084,
-      "lng": 55.2719
-    },
-    {
-      "name": "Grand Hyatt",
-      "lat": 25.2285, 
-      "lng": 55.3273
-    }
+    {"id":4,"name":"AzureFunction1","addressTypeName":"Galeria",
+     "address":"Wrocław Długopolska 22","description":"opis","status":0,
+     "lat":"51.074350", "lng":"17.039909"},
+    {"id":5,"name":"Kjosk2","addressTypeName":"Galeria",
+     "address":"Wrocław Długopolska 22","description":"opis","status":2,
+     "lat":"51.074650", "lng":"17.036909"},
 ]
